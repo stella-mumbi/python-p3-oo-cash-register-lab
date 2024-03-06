@@ -43,6 +43,7 @@ We're going to create an Object-Oriented Cash Register that can:
 
 ***
 
+
 ## Instructions
 
 **This is a test-driven lab!** You will need to read the spec file and the test
